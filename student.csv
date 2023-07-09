@@ -1,0 +1,86 @@
+﻿student_id,math_score,science_score,english_score,attendance,socioeconomic_background,gender,ethnicity
+1,80,75,85,90,High,Male,Asian
+2,90,85,95,95,Medium,Female,Caucasian
+3,70,65,75,80,Low,Male,African American
+4,85,80,90,85,High,Male,Hispanic
+5,75,70,80,90,Medium,Female,Asian
+6,95,90,100,95,High,Female,Caucasian
+7,60,55,65,75,Low,Male,African American
+8,80,75,85,90,Medium,Male,Hispanic
+9,90,85,95,95,High,Female,Caucasian
+10,70,65,75,80,Low,Male,Asian
+11,85,80,90,85,High,Female,Hispanic
+12,75,70,80,90,Medium,Female,African American
+13,95,90,100,95,High,Male,Caucasian
+14,60,55,65,75,Low,Male,Asian
+15,80,75,85,90,Medium,Female,African American
+16,90,85,95,95,High,Female,Caucasian
+17,70,65,75,80,Low,Male,Hispanic
+18,85,80,90,85,High,Male,African American
+19,75,70,80,90,Medium,Male,Asian
+20,95,90,100,95,High,Female,Caucasian
+21,60,55,65,75,Low,Male,Hispanic
+22,80,75,85,90,Medium,Male,Caucasian
+23,90,85,95,95,High,Female,Asian
+24,70,65,75,80,Low,Female,African American
+25,85,80,90,85,High,Male,Hispanic
+26,75,70,80,90,Medium,Male,Caucasian
+27,95,90,100,95,High,Female,Asian
+28,60,55,65,75,Low,Female,Caucasian
+29,80,75,85,90,Medium,Male,African American
+30,90,85,95,95,High,Female,Hispanic
+31,70,65,75,80,Low,Male,Caucasian
+32,85,80,90,85,High,Male,Asian
+33,75,70,80,90,Medium,Female,Hispanic
+34,95,90,100,95,High,Male,African American
+35,60,55,65,75,Low,Female,Caucasian
+36,80,75,85,90,Medium,Male,Asian
+37,90,85,95,95,High,Male,African American
+38,70,65,75,80,Low,Female,Hispanic
+39,85,80,90,85,High,Male,Caucasian
+40,75,70,80,90,Medium,Male,Asian
+41,95,90,100,95,High,Female,African American
+42,60,55,65,75,Low,Female,Hispanic
+43,80,75,85,90,Medium,Male,Caucasian
+44,90,85,95,95,High,Male,Asian
+45,70,65,75,80,Low,Female,African American
+46,85,80,90,85,High,Female,Hispanic
+47,75,70,80,90,Medium,Male,Caucasian
+48,95,90,100,95,High,Female,Asian
+49,60,55,65,75,Low,Female,African American
+50,80,75,85,90,Medium,Male,Hispanic
+51,90,85,95,95,High,Female,Caucasian
+52,70,65,75,80,Low,Male,African American
+53,85,80,90,85,High,Male,Asian
+54,75,70,80,90,Medium,Female,Caucasian
+55,95,90,100,95,High,Female,African American
+56,60,55,65,75,Low,Male,Hispanic
+57,80,75,85,90,Medium,Male,Caucasian
+58,90,85,95,95,High,Female,Asian
+59,70,65,75,80,Low,Female,African American
+60,85,80,90,85,High,Male,Hispanic
+61,75,70,80,90,Medium,Male,Caucasian
+62,95,90,100,95,High,Female,Asian
+63,60,55,65,75,Low,Female,Hispanic
+64,80,75,85,90,Medium,Male,African American
+65,90,85,95,95,High,Female,Caucasian
+66,70,65,75,80,Low,Male,Asian
+67,85,80,90,85,High,Male,African American
+68,75,70,80,90,Medium,Female,Hispanic
+69,95,90,100,95,High,Male,Caucasian
+70,60,55,65,75,Low,Male,Asian
+71,80,75,85,90,Medium,Female,African American
+72,90,85,95,95,High,Female,Hispanic
+73,70,65,75,80,Low,Male,Caucasian
+74,85,80,90,85,High,Male,Asian
+75,75,70,80,90,Medium,Female,Caucasian
+76,95,90,100,95,High,Female,African American
+77,60,55,65,75,Low,Male,Hispanic
+78,80,75,85,90,Medium,Male,Caucasian
+79,90,85,95,95,High,Female,Asian
+80,70,65,75,80,Low,Female,African American
+81,85,80,90,85,High,Male,Hispanic
+82,75,70,80,90,Medium,Male,Caucasian
+83,95,90,100,95,High,Female,Asian
+84,60,55,65,75,Low,Female,African American
+85,80,75,85,90,Medium,Male,Hispanic
